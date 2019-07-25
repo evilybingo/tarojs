@@ -1,2 +1,2 @@
 # tarojs
-demo
+learn yourself
