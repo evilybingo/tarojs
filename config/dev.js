@@ -3,6 +3,7 @@ module.exports = {
     NODE_ENV: '"development"'
   },
   defineConstants: {
+    HOST: ''
   },
   weapp: {},
   h5: {}
